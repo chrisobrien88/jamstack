@@ -8,7 +8,7 @@ In this lab you will get your hands dirty with the JAM Stack, a very modern way 
 
 Today you will be building a products app using some of the most common and popular tools:
 
-* [Next.js](https://www.gatsbyjs.org/)  to build/generate the site
+* [Next.js](https://nextjs.org/)  to build/generate the site
 * [Contentful](https://www.contentful.com/) to store and deliver the content
 * [Netlifly](https://www.netlify.com/) to deploy the site
 
